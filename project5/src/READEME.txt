@@ -1,0 +1,11 @@
+Jehoon Park, park2836, 5827316
+
+Run the program using HashTable.java class to show up the hash table.
+
+Please be aware that it will be better to test one txt file on each time.
+You will need to change name of the hash function in add method line 43.
+
+“I certify that the information contained in this README
+file is complete and accurate. I have both read and followed the course policies
+in the ‘Academic Integrity - Course Policy’ section of the course syllabus.”
+Jehoon Park
